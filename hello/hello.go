@@ -2,7 +2,7 @@ package main
 
 import(
 	"fmt"
-        "github.com/yuelinxing/gateio"	
+        "github.com/yuelinxing/gateio/greetings"	
 )
 
 func main(){
