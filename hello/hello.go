@@ -6,6 +6,6 @@ import(
 )
 
 func main(){
-     message := "hello"
+     message := greetings.Hello("hihi")
      fmt.Println(message)
 }
